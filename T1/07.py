@@ -5,4 +5,8 @@ def idade_dias(anos, meses, dias):
     print(anos_d + meses_d + dias_d)
 
 
-idade_dias(25, 6, 14)
+ANOS = input("Quantos anos: ")
+MESES = input("Quantos meses: ")
+DIAS = input("Quantos dias: ")
+
+idade_dias(int(ANOS), int(MESES), int(DIAS))
