@@ -1,3 +1,6 @@
+# Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade
+# dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
+
 def idade_dias(anos, meses, dias):
     anos_d = anos * 365
     meses_d = meses * 30

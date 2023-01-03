@@ -1,3 +1,7 @@
+# Ler 2 valores, calcular e escrever a soma dos inteiros existentes entre os 2 valores lidos (incluindo
+# os valores lidos na soma). Considere que o segundo valor lido poderá ser maior ou
+# menor que o primeiro valor lido, ou seja, deve-se testá-los.
+
 A = input("Primeiro número: ")
 B = input("Segundo número: ")
 

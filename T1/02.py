@@ -1,3 +1,5 @@
+# Analise os algoritmos abaixo e diga o que será impresso na tela ao serem executados:
+
 def letras(numa, numb, numc):
     return (numa, numb, numc)
 
